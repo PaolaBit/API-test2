@@ -12,6 +12,11 @@
  *--- En el archivo index.js vamos a hacer un ajuste al puerto donde nos escucha el servidor.
 
  -------------------------Subimos todo y verificamos si nos funciona... vemos los logs de errores keroku logs
+
+ ----- Explicar que nodemon pone conflicto con el servidor. Ajustar el package.json.
+
+ -------------- Mostrar que en el archivo contactUs.js controller se está utilizando nodemon.... solucionar el error.
+
  */
 
 module.exports = {
