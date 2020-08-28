@@ -17,6 +17,8 @@
 
  -------------- Mostrar que en el archivo contactUs.js controller se está utilizando nodemon.... solucionar el error.
 
+ -------- Mostrar que se debe resolver el problema con el searchBy
+
  */
 
 module.exports = {
