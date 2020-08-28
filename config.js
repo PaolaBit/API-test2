@@ -10,6 +10,8 @@
  * 
  * 
  *--- En el archivo index.js vamos a hacer un ajuste al puerto donde nos escucha el servidor.
+
+ -------------------------Subimos todo y verificamos si nos funciona... vemos los logs de errores keroku logs
  */
 
 module.exports = {
